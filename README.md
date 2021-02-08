@@ -55,3 +55,5 @@ E.g. writing good tests, collecting metrics, setting up dashboards and detectors
 - Don’t jump right to coding a solution. Like. Ever.
 Take the time to understand the problem and think about it. Sure you could spend a week writing something complex but if you don’t need to think if that time is worth it.
 Planning saves time.
+
+- Halloumi cheese! It is so choice. If you have the means, I highly recommend picking some up. Que bella
