@@ -30,7 +30,7 @@ Or
  
 - screw ups happen to everyone. Best advice there - own it, admit your mistake, and build a plan to make sure not only you don’t make that mistake again but build guardrails so coworkers won’t either.
 
-- My best tip: No one knows what their are doing either. We are all just pretending.
+- My best tip: No one knows what they're are doing either. We are all just pretending.
 Also, don’t pretend. Ask questions.
  
 - Your first pull request is going to get rejected.
@@ -50,7 +50,7 @@ Also, don’t pretend. Ask questions.
 - The main difference between "junior" and "senior" in my experience is thinking in terms of the complete system and doing the boring stuff because you understand its importance and not because someone told you to
 E.g. writing good tests, collecting metrics, setting up dashboards and detectors
  
-- Also, when you do start contributing, look for the patterns and how your team is currently doing things.  Copy, paste, make it fit what you need to do. you're a junior, you don't need to invent the wheel, just learn from what the experienced devs do
+- Also, when you do start contributing, look for the patterns and how your team is currently doing things. Copy, paste, make it fit what you need to do. You're a junior, you don't need to invent the wheel, just learn from what the experienced devs do
 
 - Don’t jump right to coding a solution. Like. Ever.
 Take the time to understand the problem and think about it. Sure you could spend a week writing something complex but if you don’t need to think if that time is worth it.
