@@ -1,4 +1,4 @@
-# Suncoast Developer’s Guild’s Guide for Junior Developers
+# The Suncoast Developers Guild Guide for Junior Developers
 
 Or 
 
